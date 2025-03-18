@@ -1,5 +1,4 @@
-Java Scientific Calculator Project HARIIIIIIIIIIIIIII
-
+Java Scientific Calculator Project 
 We completed this project as part of a set of three projects required for a data structures course in spring 2020.
 
 In groups of 2 to 4 students, you will implement one large program or 2 to 3 smaller programs of your choice, using all of the topics below. This is a collaborative project, so make sure you are working as a team. It may take some time to develop a program topic or topics, that satisfy the final project requirements. All groups and topics of the project elements need to be approved by the instructor. Your project should also have a real world component if possible. For example, you could create a scheduling program that makes use of a doubly linked list; a mock package delivery tracking system that uses priority queues; a program that can determine if a graph is two colorable for any given graph, etc. You can use some of the programming practice samples from the end of the chapters to get an idea. All groups will present their projects on the last day of class. You will need to submit through blackboard the following:
