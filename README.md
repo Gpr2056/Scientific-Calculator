@@ -1,4 +1,4 @@
-Java Scientific Calculator Project
+Java Scientific Calculator Project HARIIIIIIIIIIIIIII
 
 We completed this project as part of a set of three projects required for a data structures course in spring 2020.
 
